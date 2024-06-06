@@ -2,7 +2,7 @@
 id = "linja laso"
 creator = ["mute ante"]
 features = ["ASCII transcription", "UCSUR-compliant", "cartouches"]
-filename = "linja_laso.ttf"
+filename = "linja_laso.otf"
 last_updated = "2024-04"
 license = "OFL"
 ligatures = true
@@ -13,5 +13,5 @@ version = "001.000"
 writing_system = "sitelen pona"
 
 [links]
-fontfile = "https://github.com/cvni1981/linja-laso/raw/main/linja_laso_0.1.ttf"
+fontfile = "https://github.com/cvni1981/linja-laso/raw/main/linja_laso_0.3.otf"
 repo = "https://github.com/cvni1981/linja-laso"
